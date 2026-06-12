@@ -24,7 +24,7 @@ npm run preview
 - **Resume**: Place your `resume.pdf` in the `public/` folder
 - **Projects**: Edit `src/components/Projects.jsx` with real GitHub/demo URLs
 - **Certifications**: Edit `src/components/Certifications.jsx`
-- **Contact email**: Update `harshith@example.com` in `Contact.jsx` and `Footer.jsx`
+- **Contact email**: Update `harshithk22007@gmail.com.com` in `Contact.jsx` and `Footer.jsx`
 
 ## Tech Stack
 
@@ -38,4 +38,4 @@ npm run preview
 
 Colors, typography, and spacing are defined as CSS custom properties in `src/index.css`.
 
-Live Portfolio : harshith-kumar-bs-portfolio.netlify.app
+Live Portfolio : [Google](https://harshith-kumar-bs-portfolio.netlify.app)
